@@ -23,7 +23,7 @@ class MandarinaApp extends StatelessWidget {
               height: 10.0,
             ),
             const Text(
-              "Jesús Bazán L.",
+              "Jesús Bazán Lozano",
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 25.0,
